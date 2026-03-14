@@ -7,6 +7,8 @@
 A simple **Todo List** web app built with vanilla JavaScript, HTML, and CSS (Bootstrap).  
 This project demonstrates **DOM manipulation, event handling, and basic JS logic**.
 
+## [Live site](https://aoseni1.github.io/todo-list-js/)
+
 ## Features
 
 - Add new todos dynamically
